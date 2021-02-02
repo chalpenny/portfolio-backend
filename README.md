@@ -1,7 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Portfolio for Colleen Halpenny
+2021
+
+This work cannot be used without permission of the author.
+
 
 Things you may want to cover:
 
